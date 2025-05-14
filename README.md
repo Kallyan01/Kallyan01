@@ -2,8 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=1000w"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kallyan01&label=Profile%20views&color=0e75b6&style=flat" alt="Kallyan01" />
- <img src="https://visitor-badge.glitch.me/badge?page_id=Kallyan01.Kallyan01" alt="Kallyan01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kallyan01&label=Profile%20views&color=0e75b6&style=flat" alt="Kallyan01" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kallyan01" alt="Kallyan01" /></a> </p>
 
@@ -22,10 +21,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kallyan-singha01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kallyan-singha01" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kallyan_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kallyan_01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@singhakallyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@singhakallyan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Kallyan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kallyan01" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@singhakallyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@singhakallyan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

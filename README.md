@@ -1,4 +1,1 @@
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kallyan01&theme=gotham&show_icons=true&count_private=true"><br/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyo141&theme=default&theme=gotham">
